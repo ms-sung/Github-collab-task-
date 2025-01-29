@@ -1,4 +1,3 @@
 Follow instructions on slides - 
-Be sure to submit your 1) first repo file
-                       2) GitHUB  collab task with your screenshots - feel free to answer the questions in  a txt file
+Be sure to submit your 1) Be sure to Submit this with changes and add comments to what you have changed to the original
 
